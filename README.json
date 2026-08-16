@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T21:47:57Z",
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2326
+            "stars": 2327
           }
         },
         {
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T06:04:57Z",
+            "last_commit": "2026-08-16T05:36:44Z",
             "owner": "smithy-lang",
             "repo": "smithy-rs",
             "stars": 656
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-15T17:25:22Z",
             "owner": "smithy-lang",
             "repo": "smithy-typescript",
-            "stars": 321
+            "stars": 322
           }
         },
         {
@@ -218,7 +218,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T11:44:41Z",
+            "last_commit": "2026-08-15T21:38:01Z",
             "owner": "thomaslaich",
             "repo": "smithy-dotnet",
             "stars": 12
@@ -252,7 +252,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T06:04:57Z",
+            "last_commit": "2026-08-16T05:36:44Z",
             "owner": "smithy-lang",
             "repo": "smithy-rs",
             "stars": 656
@@ -283,7 +283,7 @@
             "last_commit": "2026-08-15T17:25:22Z",
             "owner": "smithy-lang",
             "repo": "smithy-typescript",
-            "stars": 321
+            "stars": 322
           }
         },
         {
@@ -308,7 +308,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T11:44:41Z",
+            "last_commit": "2026-08-15T21:38:01Z",
             "owner": "thomaslaich",
             "repo": "smithy-dotnet",
             "stars": 12
@@ -342,7 +342,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T06:04:57Z",
+            "last_commit": "2026-08-16T05:36:44Z",
             "owner": "smithy-lang",
             "repo": "smithy-rs",
             "stars": 656
@@ -497,7 +497,7 @@
             "last_commit": "2026-08-13T21:47:57Z",
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2326
+            "stars": 2327
           }
         },
         {
@@ -545,7 +545,7 @@
             "last_commit": "2026-08-13T21:47:57Z",
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2326
+            "stars": 2327
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-01T01:42:57Z",
             "owner": "build-server-protocol",
             "repo": "build-server-protocol",
-            "stars": 547
+            "stars": 548
           }
         },
         {
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:33:42.762Z",
+    "last_updated": "2026-08-16T19:32:38.125Z",
     "original_repository": "smithy-lang/awesome-smithy",
     "original_repository_sha": "cf6f2734451006d06faa426375dd0b2e7f92e913",
     "enhanced_repository": "enhansome/enhansome-smithy",

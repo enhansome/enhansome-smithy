@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107214500,
             "language": "Scala",
             "last_commit": "2026-08-17T22:14:41Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2779
+            "stars": 2780
           }
         },
         {
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177212349,
             "language": "Java",
-            "last_commit": "2026-08-13T21:47:57Z",
+            "last_commit": "2026-08-19T10:05:59Z",
             "owner": "smithy-lang",
             "repo": "smithy",
             "stars": 2340
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183308735,
             "language": "Java",
-            "last_commit": "2026-08-11T15:26:56Z",
+            "last_commit": "2026-08-19T10:08:07Z",
             "owner": "smithy-lang",
             "repo": "smithy-gradle-plugin",
             "stars": 33
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 949137765,
             "language": "Rust",
             "last_commit": "2026-01-31T19:35:02Z",
             "owner": "mellemahp",
@@ -63,276 +67,297 @@
       "title": "Build tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rust",
+              "description": "🚧 - Client code generation for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308027791,
+                "language": "Rust",
+                "last_commit": "2026-08-19T11:56:59Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-rs",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scala",
+              "description": "Community plugin for generation of clients/servers in Scala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440819375,
+                "language": "Scala",
+                "last_commit": "2026-08-06T13:25:10Z",
+                "owner": "disneystreaming",
+                "repo": "smithy4s",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript",
+              "description": "🚧 - Client code generation for Typescript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208319207,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T18:09:32Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-typescript",
+                "stars": 324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Golang",
+              "description": "🚧 - Client code generation for Golang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238800969,
+                "language": "Java",
+                "last_commit": "2026-08-18T22:10:33Z",
+                "owner": "aws",
+                "repo": "smithy-go",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin",
+              "description": "Client code generation for Kotlin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294823838,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T21:02:05Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-kotlin",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": "🚧 - Client code generation for Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342067205,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:33:39Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-python",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": "🚧 - Client code generation for Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771092219,
+                "language": "Java",
+                "last_commit": "2026-08-19T10:06:21Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-java",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": "🚧 - Client code generation for Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209177355,
+                "language": "Ruby",
+                "last_commit": "2026-08-18T21:43:21Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-ruby",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift",
+              "description": "🚧 - Client code generation for Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242852561,
+                "language": "Smithy",
+                "last_commit": "2026-08-18T21:47:15Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-swift",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dafny",
+              "description": "🚧 - Code generation tools for the Dafny verification-aware programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435964064,
+                "language": "Java",
+                "last_commit": "2026-03-30T19:48:10Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-dafny",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C#",
+              "description": "Community plugin for generation of clients/servers in C#.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1215224971,
+                "language": "C#",
+                "last_commit": "2026-08-15T21:38:01Z",
+                "owner": "thomaslaich",
+                "repo": "smithy-dotnet",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Erlang, Elixir, Gleam",
+              "description": "Community plugin for generating clients and servers targeting BEAM languages: Erlang, Elixir, Gleam",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1208448883,
+                "language": "Java",
+                "last_commit": "2026-07-18T11:30:49Z",
+                "owner": "f34nk",
+                "repo": "smithy-beam",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Client Code Generators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rust",
+              "description": "🚧 - Server generator for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308027791,
+                "language": "Rust",
+                "last_commit": "2026-08-19T11:56:59Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-rs",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scala",
+              "description": "Community plugin for generation of clients/servers in Scala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440819375,
+                "language": "Scala",
+                "last_commit": "2026-08-06T13:25:10Z",
+                "owner": "disneystreaming",
+                "repo": "smithy4s",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript",
+              "description": "🚧 - Server generator for TypeScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208319207,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T18:09:32Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-typescript",
+                "stars": 324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": "🚧 - Server code generation for Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771092219,
+                "language": "Java",
+                "last_commit": "2026-08-19T10:06:21Z",
+                "owner": "smithy-lang",
+                "repo": "smithy-java",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C#",
+              "description": "Community plugin for generation of clients/servers in C#.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1215224971,
+                "language": "C#",
+                "last_commit": "2026-08-15T21:38:01Z",
+                "owner": "thomaslaich",
+                "repo": "smithy-dotnet",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Erlang, Elixir, Gleam",
+              "description": "Community plugin for generating clients and servers targeting BEAM languages: Erlang, Elixir, Gleam",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1208448883,
+                "language": "Java",
+                "last_commit": "2026-07-18T11:30:49Z",
+                "owner": "f34nk",
+                "repo": "smithy-beam",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Server Code Generators"
+        }
+      ],
       "title": "Code Generators"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Rust",
-          "description": "🚧 - Client code generation for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T16:23:56Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-rs",
-            "stars": 656
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scala",
-          "description": "Community plugin for generation of clients/servers in Scala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2026-08-06T13:25:10Z",
-            "owner": "disneystreaming",
-            "repo": "smithy4s",
-            "stars": 400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript",
-          "description": "🚧 - Client code generation for Typescript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T18:09:32Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-typescript",
-            "stars": 324
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golang",
-          "description": "🚧 - Client code generation for Golang.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T17:14:44Z",
-            "owner": "aws",
-            "repo": "smithy-go",
-            "stars": 254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kotlin",
-          "description": "Client code generation for Kotlin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T16:51:01Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-kotlin",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": "🚧 - Client code generation for Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T15:08:29Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-python",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Java",
-          "description": "🚧 - Client code generation for Java.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T19:37:55Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-java",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ruby",
-          "description": "🚧 - Client code generation for Ruby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T17:41:45Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-ruby",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift",
-          "description": "🚧 - Client code generation for Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Smithy",
-            "last_commit": "2026-08-18T17:11:31Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-swift",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dafny",
-          "description": "🚧 - Code generation tools for the Dafny verification-aware programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-30T19:48:10Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-dafny",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C#",
-          "description": "Community plugin for generation of clients/servers in C#.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-15T21:38:01Z",
-            "owner": "thomaslaich",
-            "repo": "smithy-dotnet",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Erlang, Elixir, Gleam",
-          "description": "Community plugin for generating clients and servers targeting BEAM languages: Erlang, Elixir, Gleam",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-18T11:30:49Z",
-            "owner": "f34nk",
-            "repo": "smithy-beam",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Client Code Generators"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Rust",
-          "description": "🚧 - Server generator for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T16:23:56Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-rs",
-            "stars": 656
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scala",
-          "description": "Community plugin for generation of clients/servers in Scala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2026-08-06T13:25:10Z",
-            "owner": "disneystreaming",
-            "repo": "smithy4s",
-            "stars": 400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript",
-          "description": "🚧 - Server generator for TypeScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T18:09:32Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-typescript",
-            "stars": 324
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Java",
-          "description": "🚧 - Server code generation for Java.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T19:37:55Z",
-            "owner": "smithy-lang",
-            "repo": "smithy-java",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C#",
-          "description": "Community plugin for generation of clients/servers in C#.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-15T21:38:01Z",
-            "owner": "thomaslaich",
-            "repo": "smithy-dotnet",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Erlang, Elixir, Gleam",
-          "description": "Community plugin for generating clients and servers targeting BEAM languages: Erlang, Elixir, Gleam",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-18T11:30:49Z",
-            "owner": "f34nk",
-            "repo": "smithy-beam",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Server Code Generators"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -341,8 +366,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308027791,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:23:56Z",
+            "last_commit": "2026-08-19T11:56:59Z",
             "owner": "smithy-lang",
             "repo": "smithy-rs",
             "stars": 656
@@ -355,6 +381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648351107,
             "language": "Java",
             "last_commit": "2026-08-14T20:25:33Z",
             "owner": "smithy-lang",
@@ -369,6 +396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 478238207,
             "language": "TypeScript",
             "last_commit": "2023-03-29T14:31:25Z",
             "owner": "aws-samples",
@@ -383,6 +411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641690703,
             "language": "Scala",
             "last_commit": "2026-05-05T01:12:15Z",
             "owner": "kubukoz",
@@ -394,7 +423,7 @@
       "title": "Learning resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -403,6 +432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318516123,
             "language": "Java",
             "last_commit": "2026-08-12T10:23:57Z",
             "owner": "smithy-lang",
@@ -417,6 +447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182878460,
             "language": "Smithy",
             "last_commit": "2026-08-10T23:23:30Z",
             "owner": "smithy-lang",
@@ -431,6 +462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455381865,
             "language": "Kotlin",
             "last_commit": "2024-12-11T00:14:06Z",
             "owner": "smithy-lang",
@@ -445,6 +477,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489909978,
             "language": "JavaScript",
             "last_commit": "2025-05-13T11:55:22Z",
             "owner": "indoorvivants",
@@ -459,6 +492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334297571,
             "language": "Java",
             "last_commit": "2022-03-25T15:16:21Z",
             "owner": "awslabs",
@@ -473,6 +507,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 762522269,
             "language": "Tree-sitter Query",
             "last_commit": "2025-06-17T08:59:30Z",
             "owner": "joshrutkowski",
@@ -484,7 +519,7 @@
       "title": "IDE Support"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -493,8 +528,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177212349,
             "language": "Java",
-            "last_commit": "2026-08-13T21:47:57Z",
+            "last_commit": "2026-08-19T10:05:59Z",
             "owner": "smithy-lang",
             "repo": "smithy",
             "stars": 2340
@@ -507,6 +543,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273017427,
             "language": "Rust",
             "last_commit": "2023-03-31T00:57:25Z",
             "owner": "johnstonskj",
@@ -521,6 +558,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1000905405,
             "language": "Common Lisp",
             "last_commit": "2025-08-31T14:31:01Z",
             "owner": "fukamachi",
@@ -532,7 +570,7 @@
       "title": "Implementations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -541,8 +579,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177212349,
             "language": "Java",
-            "last_commit": "2026-08-13T21:47:57Z",
+            "last_commit": "2026-08-19T10:05:59Z",
             "owner": "smithy-lang",
             "repo": "smithy",
             "stars": 2340
@@ -555,6 +594,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523016205,
             "language": "Scala",
             "last_commit": "2026-07-20T16:46:34Z",
             "owner": "disneystreaming",
@@ -569,6 +609,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523016205,
             "language": "Scala",
             "last_commit": "2026-07-20T16:46:34Z",
             "owner": "disneystreaming",
@@ -580,44 +621,35 @@
       "title": "Model Converters"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "setup-smithy-cli",
+              "description": "Install the Smithy CLI for a GitHub action to validate, build, format, and diff Smithy models in a GitHub repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1220397895,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T18:53:13Z",
+                "owner": "smithy-lang",
+                "repo": "setup-smithy-cli",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitHub Actions"
+        }
+      ],
       "title": "CICD Support"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "setup-smithy-cli",
-          "description": "Install the Smithy CLI for a GitHub action to validate, build, format, and diff Smithy models in a GitHub repository.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-09T18:53:13Z",
-            "owner": "smithy-lang",
-            "repo": "setup-smithy-cli",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "setup-smithy",
-          "description": "Install Smithy CLI to your GitHub Workflow.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "format-smithy",
-          "description": "Checks if Smithy Models are formatted.",
-          "children": []
-        }
-      ],
-      "title": "GitHub Actions"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -626,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116955501,
             "language": "Scala",
             "last_commit": "2026-08-01T01:42:57Z",
             "owner": "build-server-protocol",
@@ -640,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 525913324,
             "language": "Scala",
             "last_commit": "2026-07-08T16:00:50Z",
             "owner": "disneystreaming",
@@ -654,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439985934,
             "language": "Scala",
             "last_commit": "2026-08-13T18:04:00Z",
             "owner": "kubukoz",
@@ -668,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477667236,
             "language": "OCaml",
             "last_commit": "2026-07-25T21:14:03Z",
             "owner": "chris-armstrong",
@@ -682,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 929634385,
             "language": "Scala",
             "last_commit": "2026-08-15T15:42:42Z",
             "owner": "kubukoz",
@@ -696,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1018284270,
             "language": "Scala",
             "last_commit": "2026-05-13T23:21:02Z",
             "owner": "kubukoz",
@@ -705,16 +743,12 @@
         }
       ],
       "title": "Others"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:40:29.325Z",
+    "last_updated": "2026-08-19T12:53:42.635Z",
     "original_repository": "smithy-lang/awesome-smithy",
+    "original_repository_id": 639971623,
     "original_repository_sha": "cf6f2734451006d06faa426375dd0b2e7f92e913",
     "enhanced_repository": "enhansome/enhansome-smithy",
     "enhanced_repository_description": null,

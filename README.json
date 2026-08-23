@@ -80,10 +80,10 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-22T16:48:34Z",
+                "last_commit": "2026-08-23T19:19:57Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
-                "stars": 657
+                "stars": 658
               }
             },
             {
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 342067205,
                 "language": "Python",
-                "last_commit": "2026-08-22T03:59:13Z",
+                "last_commit": "2026-08-23T04:49:13Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-python",
                 "stars": 84
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 1215224971,
                 "language": "C#",
-                "last_commit": "2026-08-22T12:43:54Z",
+                "last_commit": "2026-08-23T19:13:13Z",
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
@@ -267,10 +267,10 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-22T16:48:34Z",
+                "last_commit": "2026-08-23T19:19:57Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
-                "stars": 657
+                "stars": 658
               }
             },
             {
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 1215224971,
                 "language": "C#",
-                "last_commit": "2026-08-22T12:43:54Z",
+                "last_commit": "2026-08-23T19:13:13Z",
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
@@ -368,10 +368,10 @@
             "archived": false,
             "id": 308027791,
             "language": "Rust",
-            "last_commit": "2026-08-22T16:48:34Z",
+            "last_commit": "2026-08-23T19:19:57Z",
             "owner": "smithy-lang",
             "repo": "smithy-rs",
-            "stars": 657
+            "stars": 658
           }
         },
         {
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:34:37.822Z",
+    "last_updated": "2026-08-23T19:34:21.228Z",
     "original_repository": "smithy-lang/awesome-smithy",
     "original_repository_id": 639971623,
     "original_repository_sha": "cf6f2734451006d06faa426375dd0b2e7f92e913",

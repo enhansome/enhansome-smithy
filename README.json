@@ -27,7 +27,7 @@
             "archived": false,
             "id": 177212349,
             "language": "Java",
-            "last_commit": "2026-08-19T10:05:59Z",
+            "last_commit": "2026-08-24T17:20:16Z",
             "owner": "smithy-lang",
             "repo": "smithy",
             "stars": 2344
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-24T12:41:52Z",
+                "last_commit": "2026-08-24T18:10:59Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 658
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 208319207,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T03:05:14Z",
+                "last_commit": "2026-08-24T19:29:09Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-typescript",
                 "stars": 324
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 238800969,
                 "language": "Java",
-                "last_commit": "2026-08-21T19:53:51Z",
+                "last_commit": "2026-08-24T18:43:05Z",
                 "owner": "aws",
                 "repo": "smithy-go",
                 "stars": 254
@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 294823838,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T21:28:12Z",
+                "last_commit": "2026-08-24T15:56:29Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-kotlin",
                 "stars": 111
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 771092219,
                 "language": "Java",
-                "last_commit": "2026-08-20T21:47:19Z",
+                "last_commit": "2026-08-24T17:34:28Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-java",
                 "stars": 71
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 209177355,
                 "language": "Ruby",
-                "last_commit": "2026-08-20T20:18:38Z",
+                "last_commit": "2026-08-24T17:28:41Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-ruby",
                 "stars": 45
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 1215224971,
                 "language": "C#",
-                "last_commit": "2026-08-24T12:50:54Z",
+                "last_commit": "2026-08-24T19:40:25Z",
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
@@ -267,7 +267,7 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-24T12:41:52Z",
+                "last_commit": "2026-08-24T18:10:59Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 658
@@ -297,7 +297,7 @@
                 "archived": false,
                 "id": 208319207,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T03:05:14Z",
+                "last_commit": "2026-08-24T19:29:09Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-typescript",
                 "stars": 324
@@ -312,7 +312,7 @@
                 "archived": false,
                 "id": 771092219,
                 "language": "Java",
-                "last_commit": "2026-08-20T21:47:19Z",
+                "last_commit": "2026-08-24T17:34:28Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-java",
                 "stars": 71
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 1215224971,
                 "language": "C#",
-                "last_commit": "2026-08-24T12:50:54Z",
+                "last_commit": "2026-08-24T19:40:25Z",
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
@@ -368,7 +368,7 @@
             "archived": false,
             "id": 308027791,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:41:52Z",
+            "last_commit": "2026-08-24T18:10:59Z",
             "owner": "smithy-lang",
             "repo": "smithy-rs",
             "stars": 658
@@ -530,7 +530,7 @@
             "archived": false,
             "id": 177212349,
             "language": "Java",
-            "last_commit": "2026-08-19T10:05:59Z",
+            "last_commit": "2026-08-24T17:20:16Z",
             "owner": "smithy-lang",
             "repo": "smithy",
             "stars": 2344
@@ -581,7 +581,7 @@
             "archived": false,
             "id": 177212349,
             "language": "Java",
-            "last_commit": "2026-08-19T10:05:59Z",
+            "last_commit": "2026-08-24T17:20:16Z",
             "owner": "smithy-lang",
             "repo": "smithy",
             "stars": 2344
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:46.362Z",
+    "last_updated": "2026-08-24T19:44:48.775Z",
     "original_repository": "smithy-lang/awesome-smithy",
     "original_repository_id": 639971623,
     "original_repository_sha": "cf6f2734451006d06faa426375dd0b2e7f92e913",

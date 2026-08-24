@@ -12,7 +12,7 @@
             "archived": false,
             "id": 107214500,
             "language": "Scala",
-            "last_commit": "2026-08-22T17:37:30Z",
+            "last_commit": "2026-08-24T13:58:26Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
             "stars": 2781
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T10:05:59Z",
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2343
+            "stars": 2344
           }
         },
         {
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-23T19:19:57Z",
+                "last_commit": "2026-08-24T12:41:52Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 658
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 342067205,
                 "language": "Python",
-                "last_commit": "2026-08-23T04:49:13Z",
+                "last_commit": "2026-08-24T06:05:21Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-python",
                 "stars": 84
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 1215224971,
                 "language": "C#",
-                "last_commit": "2026-08-23T19:13:13Z",
+                "last_commit": "2026-08-24T12:50:54Z",
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
@@ -267,7 +267,7 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-23T19:19:57Z",
+                "last_commit": "2026-08-24T12:41:52Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 658
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 1215224971,
                 "language": "C#",
-                "last_commit": "2026-08-23T19:13:13Z",
+                "last_commit": "2026-08-24T12:50:54Z",
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
@@ -368,7 +368,7 @@
             "archived": false,
             "id": 308027791,
             "language": "Rust",
-            "last_commit": "2026-08-23T19:19:57Z",
+            "last_commit": "2026-08-24T12:41:52Z",
             "owner": "smithy-lang",
             "repo": "smithy-rs",
             "stars": 658
@@ -533,7 +533,7 @@
             "last_commit": "2026-08-19T10:05:59Z",
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2343
+            "stars": 2344
           }
         },
         {
@@ -584,7 +584,7 @@
             "last_commit": "2026-08-19T10:05:59Z",
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2343
+            "stars": 2344
           }
         },
         {
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:34:21.228Z",
+    "last_updated": "2026-08-24T14:30:46.362Z",
     "original_repository": "smithy-lang/awesome-smithy",
     "original_repository_id": 639971623,
     "original_repository_sha": "cf6f2734451006d06faa426375dd0b2e7f92e913",

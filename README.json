@@ -12,7 +12,7 @@
             "archived": false,
             "id": 107214500,
             "language": "Scala",
-            "last_commit": "2026-08-24T13:58:26Z",
+            "last_commit": "2026-08-27T21:35:51Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
             "stars": 2783
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:27:16Z",
+                "last_commit": "2026-08-28T03:31:27Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 658
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 208319207,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:06:36Z",
+                "last_commit": "2026-08-28T03:04:32Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-typescript",
                 "stars": 324
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 238800969,
                 "language": "Java",
-                "last_commit": "2026-08-26T22:37:28Z",
+                "last_commit": "2026-08-27T18:16:58Z",
                 "owner": "aws",
                 "repo": "smithy-go",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 342067205,
                 "language": "Python",
-                "last_commit": "2026-08-27T01:04:24Z",
+                "last_commit": "2026-08-27T18:12:42Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-python",
-                "stars": 85
+                "stars": 86
               }
             },
             {
@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 242852561,
                 "language": "Smithy",
-                "last_commit": "2026-08-26T21:33:44Z",
+                "last_commit": "2026-08-27T16:07:13Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-swift",
                 "stars": 39
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 1215224971,
                 "language": "C#",
-                "last_commit": "2026-08-26T08:57:19Z",
+                "last_commit": "2026-08-27T20:59:41Z",
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
@@ -267,7 +267,7 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:27:16Z",
+                "last_commit": "2026-08-28T03:31:27Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 658
@@ -297,7 +297,7 @@
                 "archived": false,
                 "id": 208319207,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:06:36Z",
+                "last_commit": "2026-08-28T03:04:32Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-typescript",
                 "stars": 324
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 1215224971,
                 "language": "C#",
-                "last_commit": "2026-08-26T08:57:19Z",
+                "last_commit": "2026-08-27T20:59:41Z",
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
@@ -368,7 +368,7 @@
             "archived": false,
             "id": 308027791,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:27:16Z",
+            "last_commit": "2026-08-28T03:31:27Z",
             "owner": "smithy-lang",
             "repo": "smithy-rs",
             "stars": 658
@@ -720,7 +720,7 @@
             "archived": false,
             "id": 929634385,
             "language": "Scala",
-            "last_commit": "2026-08-21T17:13:10Z",
+            "last_commit": "2026-08-27T18:39:45Z",
             "owner": "kubukoz",
             "repo": "smithy-transcoder",
             "stars": 3
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:26.407Z",
+    "last_updated": "2026-08-28T03:34:57.831Z",
     "original_repository_info": {
       "archived": false,
       "id": 639971623,

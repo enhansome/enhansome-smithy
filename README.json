@@ -12,11 +12,12 @@
             "archived": false,
             "id": 107214500,
             "language": "Scala",
-            "last_commit": "2026-08-27T21:35:51Z",
+            "last_commit": "2026-08-28T07:48:10Z",
             "owner": "com-lihaoyi",
             "repo": "mill",
             "stars": 2783
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 177212349,
             "language": "Java",
-            "last_commit": "2026-08-26T10:05:47Z",
+            "last_commit": "2026-08-28T14:08:21Z",
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2346
-          }
+            "stars": 2347
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "smithy-lang",
             "repo": "smithy-gradle-plugin",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mellemahp",
             "repo": "smithy-cargo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         }
       ],
       "title": "Build tools"
@@ -80,11 +84,12 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-28T03:31:27Z",
+                "last_commit": "2026-08-28T23:52:53Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 658
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "disneystreaming",
                 "repo": "smithy4s",
                 "stars": 400
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "smithy-lang",
                 "repo": "smithy-typescript",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "aws",
                 "repo": "smithy-go",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -140,11 +148,12 @@
                 "archived": false,
                 "id": 294823838,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T19:57:24Z",
+                "last_commit": "2026-08-28T20:57:17Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-kotlin",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "smithy-lang",
                 "repo": "smithy-python",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -170,11 +180,12 @@
                 "archived": false,
                 "id": 771092219,
                 "language": "Java",
-                "last_commit": "2026-08-26T17:12:59Z",
+                "last_commit": "2026-08-29T00:09:39Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-java",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "smithy-lang",
                 "repo": "smithy-ruby",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "smithy-lang",
                 "repo": "smithy-swift",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "smithy-lang",
                 "repo": "smithy-dafny",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "f34nk",
                 "repo": "smithy-beam",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             }
           ],
           "description": null,
@@ -267,11 +283,12 @@
                 "archived": false,
                 "id": 308027791,
                 "language": "Rust",
-                "last_commit": "2026-08-28T03:31:27Z",
+                "last_commit": "2026-08-28T23:52:53Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 658
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "disneystreaming",
                 "repo": "smithy4s",
                 "stars": 400
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "smithy-lang",
                 "repo": "smithy-typescript",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -312,11 +331,12 @@
                 "archived": false,
                 "id": 771092219,
                 "language": "Java",
-                "last_commit": "2026-08-26T17:12:59Z",
+                "last_commit": "2026-08-29T00:09:39Z",
                 "owner": "smithy-lang",
                 "repo": "smithy-java",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "f34nk",
                 "repo": "smithy-beam",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             }
           ],
           "description": null,
@@ -368,11 +390,12 @@
             "archived": false,
             "id": 308027791,
             "language": "Rust",
-            "last_commit": "2026-08-28T03:31:27Z",
+            "last_commit": "2026-08-28T23:52:53Z",
             "owner": "smithy-lang",
             "repo": "smithy-rs",
             "stars": 658
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -387,7 +410,8 @@
             "owner": "smithy-lang",
             "repo": "smithy-examples",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -402,7 +426,8 @@
             "owner": "aws-samples",
             "repo": "smithy-server-generator-typescript-sample",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -417,7 +442,8 @@
             "owner": "kubukoz",
             "repo": "smithy4s-course",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         }
       ],
       "title": "Learning resources"
@@ -438,7 +464,8 @@
             "owner": "smithy-lang",
             "repo": "smithy-language-server",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -453,7 +480,8 @@
             "owner": "smithy-lang",
             "repo": "smithy-vscode",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -468,7 +496,8 @@
             "owner": "smithy-lang",
             "repo": "smithy-intellij-plugin",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -483,7 +512,8 @@
             "owner": "indoorvivants",
             "repo": "tree-sitter-smithy",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -498,7 +528,8 @@
             "owner": "awslabs",
             "repo": "smithy-intellij",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -513,7 +544,8 @@
             "owner": "joshrutkowski",
             "repo": "zed-smithy",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         }
       ],
       "title": "IDE Support"
@@ -530,11 +562,12 @@
             "archived": false,
             "id": 177212349,
             "language": "Java",
-            "last_commit": "2026-08-26T10:05:47Z",
+            "last_commit": "2026-08-28T14:08:21Z",
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2346
-          }
+            "stars": 2347
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -549,7 +582,8 @@
             "owner": "johnstonskj",
             "repo": "rust-atelier",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -564,7 +598,8 @@
             "owner": "fukamachi",
             "repo": "smithy-lisp",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         }
       ],
       "title": "Implementations"
@@ -581,11 +616,12 @@
             "archived": false,
             "id": 177212349,
             "language": "Java",
-            "last_commit": "2026-08-26T10:05:47Z",
+            "last_commit": "2026-08-28T14:08:21Z",
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2346
-          }
+            "stars": 2347
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -600,7 +636,8 @@
             "owner": "disneystreaming",
             "repo": "smithy-translate",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -615,7 +652,8 @@
             "owner": "disneystreaming",
             "repo": "smithy-translate",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         }
       ],
       "title": "Model Converters"
@@ -638,7 +676,8 @@
                 "owner": "smithy-lang",
                 "repo": "setup-smithy-cli",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:11:08.945Z"
             }
           ],
           "description": null,
@@ -664,7 +703,8 @@
             "owner": "build-server-protocol",
             "repo": "build-server-protocol",
             "stars": 548
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -679,7 +719,8 @@
             "owner": "disneystreaming",
             "repo": "alloy",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -694,7 +735,8 @@
             "owner": "kubukoz",
             "repo": "smithy-playground",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -709,7 +751,8 @@
             "owner": "chris-armstrong",
             "repo": "smaws",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -724,7 +767,8 @@
             "owner": "kubukoz",
             "repo": "smithy-transcoder",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         },
         {
           "node_type": "item",
@@ -739,14 +783,15 @@
             "owner": "kubukoz",
             "repo": "smithy-selector-playground",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:11:08.945Z"
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:34:57.831Z",
+    "last_updated": "2026-08-29T02:11:08.945Z",
     "original_repository_info": {
       "archived": false,
       "id": 639971623,

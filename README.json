@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools",
+            "homepage": "https://mill-build.org/",
             "id": 107214500,
             "language": "Scala",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:48:10Z",
+            "open_issues": 263,
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2783
+            "stars": 2783,
+            "topics": [
+              "android",
+              "build-system",
+              "build-tool",
+              "groovy",
+              "java",
+              "kotlin",
+              "mill-plugin",
+              "scala",
+              "scala-js",
+              "scala-native"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -26,12 +42,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.",
+            "homepage": "https://smithy.io",
             "id": 177212349,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:08:21Z",
+            "open_issues": 90,
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2347
+            "stars": 2347,
+            "topics": [
+              "smithy",
+              "smithy-models"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -42,12 +66,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smithy plugin for Gradle",
+            "homepage": null,
             "id": 183308735,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T10:06:56Z",
+            "open_issues": 4,
             "owner": "smithy-lang",
             "repo": "smithy-gradle-plugin",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "build-tool",
+              "gradle",
+              "gradle-plugin",
+              "smithy"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -58,12 +92,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for executing Smithy builds from a cargo build scripts (build.rs)",
+            "homepage": null,
             "id": 949137765,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-31T19:35:02Z",
+            "open_issues": 0,
             "owner": "mellemahp",
             "repo": "smithy-cargo",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "api",
+              "build-tool",
+              "rust",
+              "smithy"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         }
@@ -82,12 +126,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.",
+                "homepage": null,
                 "id": 308027791,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:52:53Z",
+                "open_issues": 396,
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "aws",
+                  "aws-sdk-rust",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -98,12 +151,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://disneystreaming.github.io/smithy4s/",
+                "homepage": null,
                 "id": 440819375,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-22T01:26:16Z",
+                "open_issues": 116,
                 "owner": "disneystreaming",
                 "repo": "smithy4s",
-                "stars": 400
+                "stars": 400,
+                "topics": [
+                  "codegen",
+                  "http",
+                  "json",
+                  "scala",
+                  "scala-js",
+                  "scala-native",
+                  "smithy",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -114,12 +181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smithy code generators for TypeScript. (in development)",
+                "homepage": null,
                 "id": 208319207,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:04:32Z",
+                "open_issues": 92,
                 "owner": "smithy-lang",
                 "repo": "smithy-typescript",
-                "stars": 324
+                "stars": 324,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -130,12 +202,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smithy code generators for Go (in development)",
+                "homepage": null,
                 "id": 238800969,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T18:16:58Z",
+                "open_issues": 31,
                 "owner": "aws",
                 "repo": "smithy-go",
-                "stars": 255
+                "stars": 255,
+                "topics": [
+                  "golang",
+                  "smithy"
+                ]
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -146,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smithy code generator for Kotlin",
+                "homepage": null,
                 "id": 294823838,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T20:57:17Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:56:18Z",
+                "open_issues": 37,
                 "owner": "smithy-lang",
                 "repo": "smithy-kotlin",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -162,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smithy code generators and core modules for Python (in development) ",
+                "homepage": null,
                 "id": 342067205,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T18:12:42Z",
+                "open_issues": 25,
                 "owner": "smithy-lang",
                 "repo": "smithy-python",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -178,12 +268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smithy code generator for Java",
+                "homepage": "https://smithy.io/",
                 "id": 771092219,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T00:09:39Z",
+                "open_issues": 26,
                 "owner": "smithy-lang",
                 "repo": "smithy-java",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -194,12 +289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 209177355,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T21:38:38Z",
+                "open_issues": 1,
                 "owner": "smithy-lang",
                 "repo": "smithy-ruby",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -210,12 +310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 242852561,
                 "language": "Smithy",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:07:13Z",
+                "open_issues": 8,
                 "owner": "smithy-lang",
                 "repo": "smithy-swift",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -226,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 435964064,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-30T19:48:10Z",
+                "open_issues": 127,
                 "owner": "smithy-lang",
                 "repo": "smithy-dafny",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -242,12 +352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smithy tooling for .NET",
+                "homepage": null,
                 "id": 1215224971,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:59:41Z",
+                "open_issues": 7,
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -258,12 +373,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "<UNDER DEVELOPMENT> Smithy code generator for BEAM languages (Erlang, Elixir, Gleam)",
+                "homepage": null,
                 "id": 1208448883,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T19:13:47Z",
+                "open_issues": 0,
                 "owner": "f34nk",
                 "repo": "smithy-beam",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "elixir",
+                  "erlang",
+                  "gleam",
+                  "smithy-lang"
+                ]
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             }
@@ -281,12 +406,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.",
+                "homepage": null,
                 "id": 308027791,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:52:53Z",
+                "open_issues": 396,
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "aws",
+                  "aws-sdk-rust",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -297,12 +431,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://disneystreaming.github.io/smithy4s/",
+                "homepage": null,
                 "id": 440819375,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-22T01:26:16Z",
+                "open_issues": 116,
                 "owner": "disneystreaming",
                 "repo": "smithy4s",
-                "stars": 400
+                "stars": 400,
+                "topics": [
+                  "codegen",
+                  "http",
+                  "json",
+                  "scala",
+                  "scala-js",
+                  "scala-native",
+                  "smithy",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -313,12 +461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smithy code generators for TypeScript. (in development)",
+                "homepage": null,
                 "id": 208319207,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:04:32Z",
+                "open_issues": 92,
                 "owner": "smithy-lang",
                 "repo": "smithy-typescript",
-                "stars": 324
+                "stars": 324,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -329,12 +482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smithy code generator for Java",
+                "homepage": "https://smithy.io/",
                 "id": 771092219,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T00:09:39Z",
+                "open_issues": 26,
                 "owner": "smithy-lang",
                 "repo": "smithy-java",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -345,12 +503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smithy tooling for .NET",
+                "homepage": null,
                 "id": 1215224971,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:59:41Z",
+                "open_issues": 7,
                 "owner": "thomaslaich",
                 "repo": "smithy-dotnet",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             },
@@ -361,12 +524,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "<UNDER DEVELOPMENT> Smithy code generator for BEAM languages (Erlang, Elixir, Gleam)",
+                "homepage": null,
                 "id": 1208448883,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T19:13:47Z",
+                "open_issues": 0,
                 "owner": "f34nk",
                 "repo": "smithy-beam",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "elixir",
+                  "erlang",
+                  "gleam",
+                  "smithy-lang"
+                ]
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             }
@@ -388,12 +561,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.",
+            "homepage": null,
             "id": 308027791,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:52:53Z",
+            "open_issues": 396,
             "owner": "smithy-lang",
             "repo": "smithy-rs",
-            "stars": 658
+            "stars": 658,
+            "topics": [
+              "aws",
+              "aws-sdk-rust",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -404,12 +586,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of examples to help users get up and running with Smithy",
+            "homepage": "https://smithy.io",
             "id": 648351107,
             "language": "Java",
+            "license": "MIT-0",
             "last_commit": "2026-08-19T23:33:23Z",
+            "open_issues": 4,
             "owner": "smithy-lang",
             "repo": "smithy-examples",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "api",
+              "aws",
+              "build-tool",
+              "codegen",
+              "examples",
+              "smithy",
+              "smithy-models"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -420,12 +615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 478238207,
             "language": "TypeScript",
+            "license": "MIT-0",
             "last_commit": "2023-03-29T14:31:25Z",
+            "open_issues": 2,
             "owner": "aws-samples",
             "repo": "smithy-server-generator-typescript-sample",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -436,12 +636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 641690703,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-05T01:12:15Z",
+            "open_issues": 0,
             "owner": "kubukoz",
             "repo": "smithy4s-course",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         }
@@ -458,12 +663,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Language Server Protocol implementation for the Smithy IDL",
+            "homepage": "https://smithy.io",
             "id": 318516123,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T10:23:57Z",
+            "open_issues": 20,
             "owner": "smithy-lang",
             "repo": "smithy-language-server",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "language-server",
+              "language-server-protocol",
+              "smithy"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -474,12 +688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Visual Studio Code extension to provide syntax highlighting for the Smithy IDL.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=smithy.smithy-vscode-extension",
             "id": 182878460,
             "language": "Smithy",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T23:36:02Z",
+            "open_issues": 11,
             "owner": "smithy-lang",
             "repo": "smithy-vscode",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -490,12 +709,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IntelliJ plugin for the Smithy interface definition language.",
+            "homepage": null,
             "id": 455381865,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2024-12-11T00:14:06Z",
+            "open_issues": 5,
             "owner": "smithy-lang",
             "repo": "smithy-intellij-plugin",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "aws",
+              "idl",
+              "intellij",
+              "intellij-plugin",
+              "plugin",
+              "smithy"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -506,12 +737,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic Tree Sitter grammar and syntax highlighting for Smithy",
+            "homepage": null,
             "id": 489909978,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-13T11:55:22Z",
+            "open_issues": 5,
             "owner": "indoorvivants",
             "repo": "tree-sitter-smithy",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -522,12 +758,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smithy IntelliJ provides IDE integration for the Smithy IDL.",
+            "homepage": null,
             "id": 334297571,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-25T15:16:21Z",
+            "open_issues": 7,
             "owner": "awslabs",
             "repo": "smithy-intellij",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "intellij-plugin",
+              "smithy",
+              "smithy-models"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -538,12 +783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smithy language support for Zed",
+            "homepage": null,
             "id": 762522269,
             "language": "Tree-sitter Query",
+            "license": "MIT",
             "last_commit": "2025-06-17T08:59:30Z",
+            "open_issues": 3,
             "owner": "joshrutkowski",
             "repo": "zed-smithy",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         }
@@ -560,12 +810,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.",
+            "homepage": "https://smithy.io",
             "id": 177212349,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:08:21Z",
+            "open_issues": 90,
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2347
+            "stars": 2347,
+            "topics": [
+              "smithy",
+              "smithy-models"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -576,12 +834,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust native core model for the AWS Smithy IDL",
+            "homepage": null,
             "id": 273017427,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-03-31T00:57:25Z",
+            "open_issues": 11,
             "owner": "johnstonskj",
             "repo": "rust-atelier",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "idl",
+              "rust",
+              "smithy"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -592,12 +859,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smithy code generator for Common Lisp",
+            "homepage": null,
             "id": 1000905405,
             "language": "Common Lisp",
+            "license": "MIT",
             "last_commit": "2025-08-31T14:31:01Z",
+            "open_issues": 3,
             "owner": "fukamachi",
             "repo": "smithy-lisp",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "common-lisp",
+              "smithy"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         }
@@ -614,12 +889,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.",
+            "homepage": "https://smithy.io",
             "id": 177212349,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:08:21Z",
+            "open_issues": 90,
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2347
+            "stars": 2347,
+            "topics": [
+              "smithy",
+              "smithy-models"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -630,12 +913,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for converting to and from the Smithy IDL",
+            "homepage": null,
             "id": 523016205,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-20T16:46:34Z",
+            "open_issues": 6,
             "owner": "disneystreaming",
             "repo": "smithy-translate",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "json-schema",
+              "openapi",
+              "protobuf",
+              "smithy",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -646,12 +940,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for converting to and from the Smithy IDL",
+            "homepage": null,
             "id": 523016205,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-20T16:46:34Z",
+            "open_issues": 6,
             "owner": "disneystreaming",
             "repo": "smithy-translate",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "json-schema",
+              "openapi",
+              "protobuf",
+              "smithy",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         }
@@ -670,12 +975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1220397895,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-09T18:53:13Z",
+                "open_issues": 10,
                 "owner": "smithy-lang",
                 "repo": "setup-smithy-cli",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:11:08.945Z"
             }
@@ -697,12 +1007,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.",
+            "homepage": "https://build-server-protocol.github.io/",
             "id": 116955501,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T01:42:57Z",
+            "open_issues": 40,
             "owner": "build-server-protocol",
             "repo": "build-server-protocol",
-            "stars": 548
+            "stars": 548,
+            "topics": [
+              "build-server-protocol",
+              "build-tool",
+              "java",
+              "json-rpc",
+              "language-server-protocol",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -713,12 +1035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 525913324,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-08T16:00:50Z",
+            "open_issues": 13,
             "owner": "disneystreaming",
             "repo": "alloy",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -729,12 +1056,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for interactive experimentation of Smithy services",
+            "homepage": null,
             "id": 439985934,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T17:25:29Z",
+            "open_issues": 58,
             "owner": "kubukoz",
             "repo": "smithy-playground",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "hacktoberfest",
+              "lsp-server",
+              "scala",
+              "smithy",
+              "smithy4s"
+            ]
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -745,12 +1083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCaml bindings for AWS APIs, built on eio",
+            "homepage": null,
             "id": 477667236,
             "language": "OCaml",
+            "license": "MIT",
             "last_commit": "2026-07-25T21:14:03Z",
+            "open_issues": 5,
             "owner": "chris-armstrong",
             "repo": "smaws",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -761,12 +1104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://kubukoz.github.io/smithy-transcoder/",
             "id": 929634385,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T18:39:45Z",
+            "open_issues": 1,
             "owner": "kubukoz",
             "repo": "smithy-transcoder",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         },
@@ -777,12 +1125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://smithy-selector-playground.fly.dev/",
             "id": 1018284270,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-13T23:21:02Z",
+            "open_issues": 1,
             "owner": "kubukoz",
             "repo": "smithy-selector-playground",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:11:08.945Z"
         }
@@ -791,15 +1144,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:11:08.945Z",
+    "last_updated": "2026-08-29T04:50:40.551Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Smithy is a curated list of awesome build-tools, code-generators, examples, and other resources related to the Smithy IDL.",
+      "homepage": "https://smithy.io",
       "id": 639971623,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-05-04T18:07:47Z",
+      "open_issues": 0,
       "owner": "smithy-lang",
       "repo": "awesome-smithy",
-      "stars": 258
+      "stars": 258,
+      "topics": [
+        "api",
+        "awesome",
+        "awesome-list",
+        "aws",
+        "client",
+        "codegen",
+        "sdk",
+        "server",
+        "smithy"
+      ]
     },
     "original_repository_sha": "cf6f2734451006d06faa426375dd0b2e7f92e913",
     "enhanced_repository": "enhansome/enhansome-smithy",

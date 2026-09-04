@@ -4,7 +4,7 @@
 [<img src="/assets/smithy-dark.svg#gh-dark-mode-only" align="right" width="300">](https://smithy.iog#gh-dark-mode-only)
 
 *Awesome Smithy* is a curated list of awesome build-tools, code-generators, examples, and other resources related to
-the [Smithy IDL](https://github.com/awslabs/smithy) ⭐ 2,352 | 🐛 92 | 🌐 Java | 📅 2026-09-02.
+the [Smithy IDL](https://github.com/awslabs/smithy) ⭐ 2,351 | 🐛 88 | 🌐 Java | 📅 2026-09-04.
 
 If you want your component to appear here, send a pull request to this repository to add it (see the [contribution
 guidelines](#contribute) for more information).
@@ -33,8 +33,8 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 ## Build tools
 
-* [Mill Plugin](https://disneystreaming.github.io/smithy4s/docs/overview/installation/#mill) - Community supported plugin that integrates smithy with the [Mill build tool](https://github.com/com-lihaoyi/mill) ⭐ 2,785 | 🐛 267 | 🌐 Scala | 📅 2026-09-01.
-* [Smithy CLI](https://github.com/smithy-lang/smithy/tree/main/smithy-cli) ⭐ 2,352 | 🐛 92 | 🌐 Java | 📅 2026-09-02 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Smithy CLI is used to build, validate, diff, and transform Smithy models.
+* [Mill Plugin](https://disneystreaming.github.io/smithy4s/docs/overview/installation/#mill) - Community supported plugin that integrates smithy with the [Mill build tool](https://github.com/com-lihaoyi/mill) ⭐ 2,787 | 🐛 270 | 🌐 Scala | 📅 2026-09-01.
+* [Smithy CLI](https://github.com/smithy-lang/smithy/tree/main/smithy-cli) ⭐ 2,351 | 🐛 88 | 🌐 Java | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Smithy CLI is used to build, validate, diff, and transform Smithy models.
 * [Gradle Plugin](https://github.com/smithy-lang/smithy-gradle-plugin) ⭐ 33 | 🐛 5 | 🌐 Java | 📅 2026-09-02 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Integrates Smithy with the Gradle build system.
 * [Smithy Cargo](https://github.com/mellemahp/smithy-cargo) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-01-31 - Community supported build tool that integrates smithy with Cargo build scripts (`build.rs`)
 * [SBT Plugin](https://disneystreaming.github.io/smithy4s/docs/overview/installation/#sbt) - Community supported plugin that integrates smithy with the SBT build system for Scala.
@@ -43,31 +43,31 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 ### Client Code Generators
 
-* [Rust](https://github.com/awslabs/smithy-rs) ⭐ 663 | 🐛 401 | 🌐 Rust | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Rust.
+* [Rust](https://github.com/awslabs/smithy-rs) ⭐ 663 | 🐛 401 | 🌐 Rust | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Rust.
 * [Scala](https://github.com/disneystreaming/smithy4s) ⭐ 400 | 🐛 117 | 🌐 Scala | 📅 2026-08-22 - Community plugin for generation of clients/servers in Scala.
-* [TypeScript](https://github.com/awslabs/smithy-typescript) ⭐ 324 | 🐛 90 | 🌐 TypeScript | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Typescript.
+* [TypeScript](https://github.com/awslabs/smithy-typescript) ⭐ 324 | 🐛 90 | 🌐 TypeScript | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Typescript.
 * [Golang](https://github.com/aws/smithy-go) ⭐ 255 | 🐛 33 | 🌐 Java | 📅 2026-08-27 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Golang.
-* [Kotlin](https://github.com/awslabs/smithy-kotlin) ⭐ 111 | 🐛 36 | 🌐 Kotlin | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Client code generation for Kotlin.
+* [Kotlin](https://github.com/awslabs/smithy-kotlin) ⭐ 111 | 🐛 37 | 🌐 Kotlin | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Client code generation for Kotlin.
 * [Python](https://github.com/smithy-lang/smithy-python) ⭐ 86 | 🐛 28 | 🌐 Python | 📅 2026-09-02 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Python.
 * [Java](https://github.com/smithy-lang/smithy-java) ⭐ 71 | 🐛 28 | 🌐 Java | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Java.
-* [Ruby](https://github.com/awslabs/smithy-ruby) ⭐ 45 | 🐛 3 | 🌐 Ruby | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Ruby.
-* [Swift](https://github.com/awslabs/smithy-swift) ⭐ 39 | 🐛 8 | 🌐 Smithy | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Swift.
+* [Ruby](https://github.com/awslabs/smithy-ruby) ⭐ 45 | 🐛 4 | 🌐 Ruby | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Ruby.
+* [Swift](https://github.com/awslabs/smithy-swift) ⭐ 39 | 🐛 9 | 🌐 Smithy | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Swift.
 * [Dafny](https://github.com/awslabs/smithy-dafny) ⭐ 18 | 🐛 127 | 🌐 Java | 📅 2026-03-30 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Code generation tools for the [Dafny](https://dafny.org/) verification-aware programming language.
-* [C#](https://github.com/thomaslaich/smithy-dotnet) ⭐ 12 | 🐛 4 | 🌐 C# | 📅 2026-09-03 - Community plugin for generation of clients/servers in C#.
+* [C#](https://github.com/thomaslaich/smithy-dotnet) ⭐ 12 | 🐛 4 | 🌐 C# | 📅 2026-09-04 - Community plugin for generation of clients/servers in C#.
 * [Erlang, Elixir, Gleam](https://github.com/f34nk/smithy-beam) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2026-08-25 - Community plugin for generating clients and servers targeting BEAM languages: Erlang, Elixir, Gleam
 
 ### Server Code Generators
 
-* [Rust](https://github.com/awslabs/smithy-rs) ⭐ 663 | 🐛 401 | 🌐 Rust | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server generator for Rust.
+* [Rust](https://github.com/awslabs/smithy-rs) ⭐ 663 | 🐛 401 | 🌐 Rust | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server generator for Rust.
 * [Scala](https://github.com/disneystreaming/smithy4s) ⭐ 400 | 🐛 117 | 🌐 Scala | 📅 2026-08-22 - Community plugin for generation of clients/servers in Scala.
-* [TypeScript](https://github.com/awslabs/smithy-typescript) ⭐ 324 | 🐛 90 | 🌐 TypeScript | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server generator for TypeScript.
+* [TypeScript](https://github.com/awslabs/smithy-typescript) ⭐ 324 | 🐛 90 | 🌐 TypeScript | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server generator for TypeScript.
 * [Java](https://github.com/smithy-lang/smithy-java) ⭐ 71 | 🐛 28 | 🌐 Java | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server code generation for Java.
-* [C#](https://github.com/thomaslaich/smithy-dotnet) ⭐ 12 | 🐛 4 | 🌐 C# | 📅 2026-09-03 - Community plugin for generation of clients/servers in C#.
+* [C#](https://github.com/thomaslaich/smithy-dotnet) ⭐ 12 | 🐛 4 | 🌐 C# | 📅 2026-09-04 - Community plugin for generation of clients/servers in C#.
 * [Erlang, Elixir, Gleam](https://github.com/f34nk/smithy-beam) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2026-08-25 - Community plugin for generating clients and servers targeting BEAM languages: Erlang, Elixir, Gleam
 
 ## Learning resources
 
-* [Rust server SDK examples](https://github.com/awslabs/smithy-rs/tree/main/examples) ⭐ 663 | 🐛 401 | 🌐 Rust | 📅 2026-09-03 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - a collection of examples using Smithy to generate a Rust server SDK.
+* [Rust server SDK examples](https://github.com/awslabs/smithy-rs/tree/main/examples) ⭐ 663 | 🐛 401 | 🌐 Rust | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - a collection of examples using Smithy to generate a Rust server SDK.
 * [Smithy Examples](https://github.com/smithy-lang/smithy-examples) ⭐ 106 | 🐛 5 | 🌐 Java | 📅 2026-09-02 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - A collection of examples to help you get up and running with Smithy.
 * [aws-samples: Typescript Example service](https://github.com/aws-samples/smithy-server-generator-typescript-sample) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-29 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Shows how to write a Typescript lambda service using Smithy and call the service using a generated client (see: [blog post](https://aws.amazon.com/blogs/devops/smithy-server-and-client-generator-for-typescript/)).
 * [kubukoz/smithy4s-course](https://github.com/kubukoz/smithy4s-course) ⭐ 18 | 🐛 0 | 🌐 Scala | 📅 2026-05-05 - Smithy/Smithy4s course.
@@ -83,13 +83,13 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 ## Implementations
 
-* [Smithy Reference Implementation](https://github.com/awslabs/smithy) ⭐ 2,352 | 🐛 92 | 🌐 Java | 📅 2026-09-02 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Smithy reference implementation in Java
+* [Smithy Reference Implementation](https://github.com/awslabs/smithy) ⭐ 2,351 | 🐛 88 | 🌐 Java | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Smithy reference implementation in Java
 * [Atelier](https://github.com/johnstonskj/rust-atelier) ⭐ 79 | 🐛 11 | 🌐 Rust | 📅 2023-03-31 🚧 - Community implementation of Smithy in Rust
 * [smithy-lisp](https://github.com/fukamachi/smithy-lisp) ⭐ 12 | 🐛 3 | 🌐 Common Lisp | 📅 2025-08-31 – Community implementation in Common Lisp
 
 ## Model Converters
 
-* [Smithy to JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) ⭐ 2,352 | 🐛 92 | 🌐 Java | 📅 2026-09-02 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/).
+* [Smithy to JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) ⭐ 2,351 | 🐛 88 | 🌐 Java | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/).
 * [Openapi/JSONSchema to Smithy](https://github.com/disneystreaming/smithy-translate) ⭐ 67 | 🐛 6 | 🌐 Scala | 📅 2026-07-20 - smithy-translate : a community-provided CLI tool for best-effort Openapi/JSONSchema to Smithy conversions
 * [Smithy to Protobuf](https://github.com/disneystreaming/smithy-translate) ⭐ 67 | 🐛 6 | 🌐 Scala | 📅 2026-07-20 - smithy-translate (see above)
 * [Smithy to OpenAPI](https://smithy.io/2.0/guides/converting-to-openapi.html#smithy-to-openapi) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Converts Smithy models to [OpenAPI](https://www.openapis.org/).
@@ -99,7 +99,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 ### GitHub Actions
 
-* [setup-smithy-cli](https://github.com/smithy-lang/setup-smithy-cli) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-09 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Install the Smithy CLI for a GitHub action to validate, build, format, and diff Smithy models in a GitHub repository.
+* [setup-smithy-cli](https://github.com/smithy-lang/setup-smithy-cli) ⭐ 2 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-04 <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Install the Smithy CLI for a GitHub action to validate, build, format, and diff Smithy models in a GitHub repository.
 * [setup-smithy](https://github.com/marketplace/actions/setup-smithy) - Install Smithy CLI to your GitHub Workflow.
 * [format-smithy](https://github.com/marketplace/actions/format-smithy) - Checks if Smithy Models are formatted.
 
@@ -125,9 +125,9 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 * [Build Server Protocol](https://github.com/build-server-protocol/build-server-protocol) ⭐ 546 | 🐛 40 | 🌐 Scala | 📅 2026-08-01 - an extension to the Language Server Protocol using Smithy as a definition language.
 * [Alloy](https://github.com/disneystreaming/alloy/) ⭐ 50 | 🐛 13 | 🌐 Scala | 📅 2026-07-08 - a library of Smithy traits providing additional semantics and constraints, used in particular by smithy-translate and smithy4s.
-* [Smithy Playground](https://github.com/kubukoz/smithy-playground/) ⭐ 32 | 🐛 58 | 🌐 Scala | 📅 2026-08-31 🚧 - A language server and VS Code client for interactive experimentation with Smithy services.
+* [Smithy Playground](https://github.com/kubukoz/smithy-playground/) ⭐ 32 | 🐛 57 | 🌐 Scala | 📅 2026-08-31 🚧 - A language server and VS Code client for interactive experimentation with Smithy services.
 * [smaws](https://github.com/chris-armstrong/smaws/) ⭐ 21 | 🐛 5 | 🌐 OCaml | 📅 2026-07-25 - a Smithy generator and AWS SDK built in OCaml
-* [Smithy Transcoder](https://github.com/kubukoz/smithy-transcoder) ⭐ 3 | 🐛 1 | 🌐 Scala | 📅 2026-08-29 - a web tool for previewing the serialized form of Smithy models
+* [Smithy Transcoder](https://github.com/kubukoz/smithy-transcoder) ⭐ 3 | 🐛 1 | 🌐 Scala | 📅 2026-09-04 - a web tool for previewing the serialized form of Smithy models
 * [Smithy Selector Playground](http://github.com/kubukoz/smithy-selector-playground/) ⭐ 0 | 🐛 1 | 🌐 Scala | 📅 2026-05-13 - a web tool for experimenting with Smithy selectors
 
 ## Contribute
@@ -136,4 +136,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

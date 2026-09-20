@@ -19,7 +19,7 @@
             "open_issues": 277,
             "owner": "com-lihaoyi",
             "repo": "mill",
-            "stars": 2793,
+            "stars": 2794,
             "topics": [
               "android",
               "build-system",
@@ -51,7 +51,7 @@
             "open_issues": 90,
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2360,
+            "stars": 2359,
             "topics": [
               "smithy",
               "smithy-models"
@@ -132,7 +132,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T22:20:15Z",
-                "open_issues": 409,
+                "open_issues": 407,
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 687,
@@ -412,7 +412,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T22:20:15Z",
-                "open_issues": 409,
+                "open_issues": 407,
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
                 "stars": 687,
@@ -567,7 +567,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T22:20:15Z",
-            "open_issues": 409,
+            "open_issues": 407,
             "owner": "smithy-lang",
             "repo": "smithy-rs",
             "stars": 687,
@@ -819,7 +819,7 @@
             "open_issues": 90,
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2360,
+            "stars": 2359,
             "topics": [
               "smithy",
               "smithy-models"
@@ -843,7 +843,7 @@
             "open_issues": 11,
             "owner": "johnstonskj",
             "repo": "rust-atelier",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "idl",
               "rust",
@@ -898,7 +898,7 @@
             "open_issues": 90,
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2360,
+            "stars": 2359,
             "topics": [
               "smithy",
               "smithy-models"
@@ -1144,7 +1144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:27:41.156Z",
+    "last_updated": "2026-09-20T21:32:52.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Smithy is a curated list of awesome build-tools, code-generators, examples, and other resources related to the Smithy IDL.",

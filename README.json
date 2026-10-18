@@ -15,8 +15,8 @@
             "id": 107214500,
             "language": "Scala",
             "license": "MIT",
-            "last_commit": "2026-10-17T14:58:53Z",
-            "open_issues": 266,
+            "last_commit": "2026-10-18T15:15:34Z",
+            "open_issues": 265,
             "owner": "com-lihaoyi",
             "repo": "mill",
             "stars": 2797,
@@ -51,7 +51,7 @@
             "open_issues": 95,
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2377,
+            "stars": 2376,
             "topics": [
               "smithy",
               "smithy-models"
@@ -131,7 +131,7 @@
                 "id": 308027791,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T13:42:34Z",
+                "last_commit": "2026-10-18T06:53:08Z",
                 "open_issues": 421,
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
@@ -420,7 +420,7 @@
                 "id": 308027791,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T13:42:34Z",
+                "last_commit": "2026-10-18T06:53:08Z",
                 "open_issues": 421,
                 "owner": "smithy-lang",
                 "repo": "smithy-rs",
@@ -584,7 +584,7 @@
             "id": 308027791,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T13:42:34Z",
+            "last_commit": "2026-10-18T06:53:08Z",
             "open_issues": 421,
             "owner": "smithy-lang",
             "repo": "smithy-rs",
@@ -837,7 +837,7 @@
             "open_issues": 95,
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2377,
+            "stars": 2376,
             "topics": [
               "smithy",
               "smithy-models"
@@ -916,7 +916,7 @@
             "open_issues": 95,
             "owner": "smithy-lang",
             "repo": "smithy",
-            "stars": 2377,
+            "stars": 2376,
             "topics": [
               "smithy",
               "smithy-models"
@@ -998,8 +998,8 @@
                 "id": 1220397895,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:32:45Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-18T09:59:05Z",
+                "open_issues": 9,
                 "owner": "smithy-lang",
                 "repo": "setup-smithy-cli",
                 "stars": 2,
@@ -1079,7 +1079,7 @@
             "id": 439985934,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T19:16:38Z",
+            "last_commit": "2026-10-18T18:18:02Z",
             "open_issues": 57,
             "owner": "kubukoz",
             "repo": "smithy-playground",
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:27:44.563Z",
+    "last_updated": "2026-10-18T21:30:16.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Smithy is a curated list of awesome build-tools, code-generators, examples, and other resources related to the Smithy IDL.",
